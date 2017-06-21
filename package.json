@@ -1,6 +1,6 @@
 {
   "name": "moore",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Generates Moore neighborhoods of any range/dimension",
   "main": "index.js",
   "scripts": {
